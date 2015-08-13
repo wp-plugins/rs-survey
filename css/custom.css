@@ -1,0 +1,21 @@
+/* Overrides */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+body, button, input, select, textarea h1, h2, h3, h4, h5, h6 {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif !important;
+}
+
+.question p {
+  color: #f17537;
+  font-size: 18px;
+  font-weight: 500;
+}
+.question > .choice-option {
+  font-size: 18px;
+}.site-content.survey-template {  width: 100%;}.submit-image{   display:none;   text-align:center;   }#pre,#next{   margin-top:20px;}#submit-image > img {  height: 102px;}
